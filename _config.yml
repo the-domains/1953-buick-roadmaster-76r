@@ -12,3 +12,8 @@ color:
     - '#046380'
     - '#002F2F'
 name: 1953 Buick Roadmaster 76R
+navigation:
+  - id: 'http://www.hometownbuick.com/buick-models/1953-buick-models/'
+    url: 'http://www.hometownbuick.com/buick-models/1953-buick-models/'
+    name: hometownbuick.com
+    type: external
